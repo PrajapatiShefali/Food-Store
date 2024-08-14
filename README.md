@@ -1,5 +1,4 @@
-##  Lessons
-1. Introduciton to the course
+1. Check System Requirements
 2. Install development tools
 3. Create Angular App
    1. Create project's folder
